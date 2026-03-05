@@ -1,0 +1,2 @@
+mode,burst,fs,hop,batch,active_mean,rx_ms_s_mean,infer_ms_s_mean,fill_ms_s_mean,eproxy_ms_s_mean,samp_s_mean,inf_s_mean,pend_peak_mean,n_pwr_windows
+BIN_I8,256,64,384,1,18.693307086614176,36.24374803149606,22.39483464566929,0.008188976377952756,58.64677165354332,62.93877952755905,0.019003149606299213,0.8700787401574803,254
