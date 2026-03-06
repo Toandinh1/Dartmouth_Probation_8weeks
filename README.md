@@ -1,4 +1,4 @@
-# Dartmouth Probation (8 Weeks) – Reproducibility Guide
+# TinyML for Stress Classification – Reproducibility Guide
 
 This repository contains code, experiments, and notes for an 8-week TinyML/embedded ML project.  
 It includes (i) off-device training and simulation, (ii) on-device deployment on Arduino Nano 33 BLE Sense, (iii) model compression (QAT, pruning, distillation), and (iv) system-level profiling and robustness experiments.
