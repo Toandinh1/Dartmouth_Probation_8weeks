@@ -175,7 +175,4 @@ inference latency, energy proxy, Flash, and RAM usage.
 - The notebook `Simulation.ipynb` is a single file covering multiple weeks. Use the `# Start/End of Week X` markers to run only the relevant parts.
 - For embedded experiments, the host script `Experiments/stream_ppg_data.py` is used to stream/record and log system-level metrics.
 
----
 
-## Contact
-If you have questions or would like to reproduce a specific figure/table, please open an issue with the week number and the target result.
