@@ -99,6 +99,7 @@ This week has two tracks: offline dataset experiments and real-time self-collect
 1. **Collect data (Arduino)**
    - Sketch: `Arduino Code/example/colect_data/collect_data.ino`
    - Output data stored under: `Arduino Code/example/colect_data/`
+     (all of self-collected dataset available at `Arduino Code/Self-collected Dataset`
 
 2. **Train SVM (host)**
    - Script: `Arduino Code/Nano_33_ble_SVM (classical ML)/train_model.py`
