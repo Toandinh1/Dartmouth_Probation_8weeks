@@ -7,6 +7,7 @@ It includes (i) off-device training and simulation, (ii) on-device deployment on
 
 ## Repository Structure (High-Level)
 ![image](Documents/System_overview.jpg)
+![image](Documents/On-device.png)
 - `Simulation.ipynb`  
   End-to-end notebook covering multiple weeks. Each week is marked by comments:
   `# Start of Week X` / `# End of Week X`.
