@@ -7,7 +7,6 @@ It includes (i) off-device training and simulation, (ii) on-device deployment on
 
 ## Repository Structure (High-Level)
 ![image](Documents/System_overview.jpg)
-![image](Documents/On-device.png)
 - `Simulation.ipynb`  
   End-to-end notebook covering multiple weeks. Each week is marked by comments:
   `# Start of Week X` / `# End of Week X`.
@@ -171,7 +170,7 @@ inference latency, energy proxy, Flash, and RAM usage.
 **Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).
 
 ---
-
+![image](Documents/On-device.png)
 ## Notes on Reproducibility
 - The notebook `Simulation.ipynb` is a single file covering multiple weeks. Use the `# Start/End of Week X` markers to run only the relevant parts.
 - For embedded experiments, the host script `Experiments/stream_ppg_data.py` is used to stream/record and log system-level metrics.
