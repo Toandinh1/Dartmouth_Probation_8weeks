@@ -1,12 +1,12 @@
-# TinyML for Stress Classifcation  – Reproducibility Guide
+# Dartmouth Probation (8 Weeks) – Reproducibility Guide
 
 This repository contains code, experiments, and notes for an 8-week TinyML/embedded ML project.  
 It includes (i) off-device training and simulation, (ii) on-device deployment on Arduino Nano 33 BLE Sense, (iii) model compression (QAT, pruning, distillation), and (iv) system-level profiling and robustness experiments.
-![System overview](Documents/System_overview.pdf)
+
 ---
 
 ## Repository Structure (High-Level)
-
+![image](Documents/System_overview.jpg)
 - `Simulation.ipynb`  
   End-to-end notebook covering multiple weeks. Each week is marked by comments:
   `# Start of Week X` / `# End of Week X`.
@@ -174,5 +174,4 @@ inference latency, energy proxy, Flash, and RAM usage.
 ## Notes on Reproducibility
 - The notebook `Simulation.ipynb` is a single file covering multiple weeks. Use the `# Start/End of Week X` markers to run only the relevant parts.
 - For embedded experiments, the host script `Experiments/stream_ppg_data.py` is used to stream/record and log system-level metrics.
-
 
