@@ -129,8 +129,8 @@ This week has two components.
 
 **Arduino**
 - Sketch:
-  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn_batch_size_change/` for Changing Fs experiment.
-  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn/` for others.
+  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn_batch_size_change` for Changing Fs experiment.
+  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn` for others.
 - Model header: `cnn_1d_float.h`
 
 **Host**
