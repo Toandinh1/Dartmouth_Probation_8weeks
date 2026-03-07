@@ -97,19 +97,21 @@ This week has two tracks: offline dataset experiments and real-time self-collect
 **Goal:** Collect PPG data using MAX30105 and deploy a classical ML baseline (SVM) due to limited data volume.
 
 1. **Collect data (Arduino)**
+   
    - Sketch: `Arduino Code/example/colect_data/collect_data.ino`
+   
    - Output data stored under: `Arduino Code/example/colect_data/`
      
      (all of self-collected dataset available at `Arduino Code/Self-collected Dataset`)
 
-2. **Train SVM (host)**
+3. **Train SVM (host)**
    - Script: `Arduino Code/Nano_33_ble_SVM (classical ML)/train_model.py`
 
-3. **Deploy SVM on-device**
+4. **Deploy SVM on-device**
    - Sketch: `Arduino Code/Nano_33_ble_SVM (classical ML)/SVM_live/SVM_live.ino`
    - Model header: `linear_svm_params.h`
 
-4. **Run streaming experiment**
+5. **Run streaming experiment**
    - Script: `Experiments/stream_ppg_data.py`
 
 ---
