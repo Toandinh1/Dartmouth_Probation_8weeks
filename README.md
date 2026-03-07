@@ -144,8 +144,8 @@ This week has two components.
 
 #### (B) Simulation Robustness: Noise + Missing Data
 **Goal:** Stress-test robustness using:
-1) additive Gaussian noise  
-2) missing data patterns
+1) Additive Gaussian noise with different noise level.  
+2) Missing data patterns + some recovery strategies.
 
 - In `Simulation.ipynb`, run:
   `# Start of Week 5` → `# End of Week 5`
