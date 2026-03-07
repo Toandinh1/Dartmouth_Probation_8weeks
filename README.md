@@ -126,8 +126,9 @@ This week has two components.
   - **A2:** Burst on MCU inference (batch multiple windows and run inference back-to-back)
 
 **Arduino**
-- Sketch:  
-  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn/`
+- Sketch:
+  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn_batch_size_change/` for Changing Fs experiment.
+  `Arduino Code/Nano_33_ble_1D_cnn (record_data)/nano_33_ble_1D_cnn/` for others.
 - Model header: `cnn_1d_float.h`
 
 **Host**
