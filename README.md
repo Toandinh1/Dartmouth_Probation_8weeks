@@ -40,7 +40,7 @@ It includes (i) off-device training and simulation, (ii) on-device deployment on
 
 ### Week 1 – Literature Deep Dive (Embedded + TinyML)
 **Goal:** Survey TinyML papers, focusing on healthcare applications.  
-**Deliverable:** Notes and references (documented in the written summary / paper).
+**Deliverable:** Notes and references (documented in the written summary / paper). (This survey is available at `Documents/Survey_week1.pdf`)  
 
 ---
 
@@ -169,7 +169,7 @@ inference latency, energy proxy, Flash, and RAM usage.
 
 ### Weeks 7–8 – Writing & Final Synthesis
 **Goal:** Produce the final write-up and project synthesis (papers + summary).  
-**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).
+**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).(This survey is available at `Documents/Paper_week7.pdf`)  
 
 ---
 ![image](Documents/On-device.png)
