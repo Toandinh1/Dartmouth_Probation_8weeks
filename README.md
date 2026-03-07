@@ -168,11 +168,13 @@ inference latency, energy proxy, Flash, and RAM usage.
 - In `Simulation.ipynb`, run:
   `# Start of Week 6` → `# End of Week 6`
 
+#### (C) Deliverables
+- A mini papers, which available at `Documents/Paper_week6.pdf`
 ---
 
 ### Weeks 7–8 – Writing & Final Synthesis
 **Goal:** Produce the final write-up and project synthesis (papers + summary).  
-**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).(This paper is available at `Documents/Paper_week7.pdf`)  
+**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes). (This paper is available at `Documents/Paper_week7.pdf`)  
 
 ---
 ![image](Documents/On-device.png)
