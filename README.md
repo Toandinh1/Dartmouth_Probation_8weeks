@@ -169,7 +169,7 @@ inference latency, energy proxy, Flash, and RAM usage.
 
 ### Weeks 7–8 – Writing & Final Synthesis
 **Goal:** Produce the final write-up and project synthesis (papers + summary).  
-**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).(This survey is available at `Documents/Paper_week7.pdf`)  
+**Deliverables:** Report, slides, and repository cleanup (README, scripts, notes).(This paper is available at `Documents/Paper_week7.pdf`)  
 
 ---
 ![image](Documents/On-device.png)
